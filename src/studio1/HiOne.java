@@ -2,7 +2,7 @@ package studio1;
 
 import java.util.Scanner;
 
-public class HiOne {
+public class {
 
 	/**
 	 * Says hello to the supplied argument
@@ -17,7 +17,9 @@ public class HiOne {
 		//      Hi, Pat.  How are you?
 		// if the value of name is "Pat"
 		//
-
+		System.out.print("Enter value for arg 0: ");
+		System.out.println("Hi"+ name +".");
+		System.out.print("How are you?");
 	}
 
 }
